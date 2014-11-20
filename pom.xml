@@ -12,7 +12,16 @@
   <scm>
     <url>https://github.com/benjamingarcia/testmavenrelease.git</url>
     <connection>scm:git:https://github.com/benjamingarcia/testmavenrelease.git</connection>
+    <developerConnection>scm:git:https://github.com:benjamingarcia/testmavenrelease.git</developerConnection>
   </scm>
+
+  <developers>
+    <developer>
+      <email>benji.potter@gmail.com</email>
+      <name>benji potter</name>
+      <id>benji</id>
+    </developer>
+  </developers>
 
   <distributionManagement>
     <repository>
