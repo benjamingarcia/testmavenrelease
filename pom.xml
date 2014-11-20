@@ -12,7 +12,7 @@
   <scm>
     <url>https://github.com/benjamingarcia/testmavenrelease.git</url>
     <connection>scm:git:https://github.com/benjamingarcia/testmavenrelease.git</connection>
-    <developerConnection>scm:git:https://github.com:benjamingarcia/testmavenrelease.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/benjamingarcia/testmavenrelease.git</developerConnection>
   </scm>
 
   <developers>
