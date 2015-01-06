@@ -57,7 +57,7 @@
               <version>1.0-m4.3</version>
               <configuration>
                   <flowInitContext>
-                      <masterBranchName>frankenstein</masterBranchName>
+                      <masterBranchName>master</masterBranchName>
                       <developBranchName>development</developBranchName>
                       <featureBranchPrefix>feature-</featureBranchPrefix>
                       <releaseBranchPrefix>release-</releaseBranchPrefix>
