@@ -3,7 +3,7 @@
 
   <groupId>com.geomatys</groupId>
   <artifactId>test</artifactId>
-  <version>3-SNAPSHOT</version>
+  <version>M2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>test</name>
